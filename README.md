@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on software techniques 
 - 📫 How to reach me - mail me
+-  bhavanamolli2005@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm an introvertic extrovert 
 
